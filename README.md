@@ -11,7 +11,8 @@ RMS Titanic was a British passenger liner, operated by the White Star Line, that
 HELLO , NAMASTE Everyone !!
 
 I'm a 'Aspiring data Scientist...'
-Also full stack developer... 
+
+Also 'Full stack developer...' 
 
 
 ## 🔗 Links
